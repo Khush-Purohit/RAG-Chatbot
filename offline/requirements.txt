@@ -1,0 +1,34 @@
+# Backend requirements
+fastapi>=0.115.0
+uvicorn[standard]>=0.30.6
+pydantic>=2.9.2
+python-dotenv
+ollama
+requests
+python-multipart
+faiss-cpu
+sentence-transformers
+langchain-text-splitters
+langchain-community
+pypdf
+Pillow
+tiktoken
+pandas
+PyMuPDF
+pdfplumber
+openai-whisper
+ffmpeg-python
+pydub
+numpy
+torch
+pi-heif 
+pillow-heif
+
+# Frontend requirements
+streamlit>=1.28.0
+requests>=2.31.0
+python-dotenv
+sounddevice
+wavio
+openai-whisper
+pyperclip
